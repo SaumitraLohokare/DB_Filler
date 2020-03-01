@@ -31,15 +31,15 @@ This tool was created to create sample JSON data to fill a database.
 ![](images/set_save_location.PNG)
 
    4) Output : <br>
-    ```
-    { "name" : "Unogzl", "numbers" : "6693" }  
-    { "name" : "Jftzww", "numbers" : "5177" }  
-    { "name" : "Gfrfwk", "numbers" : "3139" } 
-    { "name" : "Twgcym", "numbers" : "2368" } 
-    { "name" : "Jmriij", "numbers" : "7453" } 
-    { "name" : "Kozwmi", "numbers" : "9434" }
-    { "name" : "Ywqqcc", "numbers" : "1315" }
-    { "name" : "Eiuwzq", "numbers" : "0622" }
-    { "name" : "Pzuvjt", "numbers" : "5433" }
-    { "name" : "Rxoagq", "numbers" : "3211" }
-    ```
+````
+{ "name" : "Unogzl", "numbers" : "6693" }
+{ "name" : "Jftzww", "numbers" : "5177" }
+{ "name" : "Gfrfwk", "numbers" : "3139" }
+{ "name" : "Twgcym", "numbers" : "2368" }
+{ "name" : "Jmriij", "numbers" : "7453" }
+{ "name" : "Kozwmi", "numbers" : "9434" }
+{ "name" : "Ywqqcc", "numbers" : "1315" }
+{ "name" : "Eiuwzq", "numbers" : "0622" }
+{ "name" : "Pzuvjt", "numbers" : "5433" }
+{ "name" : "Rxoagq", "numbers" : "3211" }
+````
